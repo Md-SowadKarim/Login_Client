@@ -1,7 +1,7 @@
 import axios from 'axios'
 
 const axiosSecure = axios.create({
-  baseURL: 'https://login-9yaxp17kj-md-sowadkarim.vercel.app',
+  baseURL: 'https://server-flax-three.vercel.app',
   withCredentials: true,
 })
 
