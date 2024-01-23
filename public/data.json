@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "brand": "apple",
+      "brand_img": "https://i.postimg.cc/mg54L8G5/apple-brand.png",
+      "slide_img1": "https://i.postimg.cc/BZwzGyvz/slide1.webp",
+      "slide_img2": "https://i.postimg.cc/5NYR93Y2/slide2.jpg",
+      "slide_img3": "https://i.postimg.cc/2yJ9FqJY/slide3.jpg"
+    },
+    {
+      "id": 2,
+      "brand": "google",
+      "brand_img": "https://i.postimg.cc/8kRTRRh7/google-brand.jpg",
+      "slide_img1": "https://i.postimg.cc/MKmdpFZx/slide1.webp",
+      "slide_img2": "https://i.postimg.cc/Gm3z8x9D/slide2.jpg",
+      "slide_img3": "https://i.postimg.cc/fTN8ZNNB/slide3.jpg"
+    },
+    {
+      "id": 3,
+      "brand": "sony",
+      "brand_img": "https://i.postimg.cc/dV1vcggC/sony-brand.webp",
+      "slide_img1": "https://i.postimg.cc/vBmd0VPx/slide1.jpg",
+      "slide_img2": "https://i.postimg.cc/wvbYZjPf/slide2.jpg",
+      "slide_img3": "https://i.postimg.cc/ZYMJDwzb/slide3.jpg"
+    },
+    {
+      "id": 4,
+      "brand": "oppo",
+      "brand_img": "https://i.postimg.cc/gk4d5Gtd/oppo-brand.webp",
+      "slide_img1": "https://i.postimg.cc/tgBgRywP/slide1.jpg",
+      "slide_img2": "https://i.postimg.cc/0ydQ37CV/slide2.jpg",
+      "slide_img3": "https://i.postimg.cc/Y92m8dKN/slide3.webp"
+    },
+    {
+      "id": 5,
+      "brand": "intel",
+      "brand_img": "https://i.postimg.cc/bvShskyN/intel-brand2.jpg",
+      "slide_img1": "https://i.postimg.cc/zfhNLgdn/slide1.webp",
+      "slide_img2": "https://i.postimg.cc/ZnwzkFRh/slide2.webp",
+      "slide_img3": "https://i.postimg.cc/3N1Y8QtV/slide3.jpg"
+    },
+    {
+      "id": 6,
+      "brand": "samsung",
+      "brand_img": "https://i.postimg.cc/L6m2NJTN/samsung-brand.webp",
+      "slide_img1": "https://i.postimg.cc/9MSNy8r0/slide1.png",
+      "slide_img2": "https://i.postimg.cc/R0gYZVmc/slide2.jpg",
+      "slide_img3": "https://i.postimg.cc/t402qnx0/slide3.jpg"
+    }
+  ]
